@@ -1,0 +1,32 @@
+﻿  ConsoleApplication7.cpp
+c:\users\надя\documents\github\cursed\consoleapplication7\consoleapplication7\consoleapplication7.cpp(22): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\надя\documents\github\cursed\consoleapplication7\consoleapplication7\consoleapplication7.cpp(54): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\надя\documents\github\cursed\consoleapplication7\consoleapplication7\consoleapplication7.cpp(74): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\надя\documents\github\cursed\consoleapplication7\consoleapplication7\consoleapplication7.cpp(395): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\надя\documents\github\cursed\consoleapplication7\consoleapplication7\consoleapplication7.cpp(405): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\надя\documents\github\cursed\consoleapplication7\consoleapplication7\consoleapplication7.cpp(413): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\надя\documents\github\cursed\consoleapplication7\consoleapplication7\consoleapplication7.cpp(421): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\надя\documents\github\cursed\consoleapplication7\consoleapplication7\consoleapplication7.cpp(438): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\надя\documents\github\cursed\consoleapplication7\consoleapplication7\consoleapplication7.cpp(448): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\надя\documents\github\cursed\consoleapplication7\consoleapplication7\consoleapplication7.cpp(659): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\надя\documents\github\cursed\consoleapplication7\consoleapplication7\consoleapplication7.cpp(668): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\надя\documents\github\cursed\consoleapplication7\consoleapplication7\consoleapplication7.cpp(674): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\надя\documents\github\cursed\consoleapplication7\consoleapplication7\consoleapplication7.cpp(682): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\надя\documents\github\cursed\consoleapplication7\consoleapplication7\consoleapplication7.cpp(689): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\надя\documents\github\cursed\consoleapplication7\consoleapplication7\consoleapplication7.cpp(697): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\надя\documents\github\cursed\consoleapplication7\consoleapplication7\consoleapplication7.cpp(706): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\надя\documents\github\cursed\consoleapplication7\consoleapplication7\consoleapplication7.cpp(718): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\надя\documents\github\cursed\consoleapplication7\consoleapplication7\consoleapplication7.cpp(727): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\надя\documents\github\cursed\consoleapplication7\consoleapplication7\consoleapplication7.cpp(735): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\надя\documents\github\cursed\consoleapplication7\consoleapplication7\consoleapplication7.cpp(744): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\надя\documents\github\cursed\consoleapplication7\consoleapplication7\consoleapplication7.cpp(756): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\надя\documents\github\cursed\consoleapplication7\consoleapplication7\consoleapplication7.cpp(764): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\надя\documents\github\cursed\consoleapplication7\consoleapplication7\consoleapplication7.cpp(772): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\надя\documents\github\cursed\consoleapplication7\consoleapplication7\consoleapplication7.cpp(783): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\надя\documents\github\cursed\consoleapplication7\consoleapplication7\consoleapplication7.cpp(810): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\надя\documents\github\cursed\consoleapplication7\consoleapplication7\consoleapplication7.cpp(831): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\надя\documents\github\cursed\consoleapplication7\consoleapplication7\consoleapplication7.cpp(835): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\надя\documents\github\cursed\consoleapplication7\consoleapplication7\consoleapplication7.cpp(101): warning C4101: pause: неиспользованная локальная переменная
+c:\users\надя\documents\github\cursed\consoleapplication7\consoleapplication7\consoleapplication7.cpp(207): warning C4101: ma: неиспользованная локальная переменная
+c:\users\надя\documents\github\cursed\consoleapplication7\consoleapplication7\consoleapplication7.cpp(207): warning C4101: mi: неиспользованная локальная переменная
+  ConsoleApplication7.vcxproj -> C:\Users\Надя\Documents\GitHub\CURSED\ConsoleApplication7\Debug\ConsoleApplication7.exe
